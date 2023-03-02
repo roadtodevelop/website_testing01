@@ -1,0 +1,22 @@
+{
+  "name": "website_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://roadtodevelop.github.io/website_testing01",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roadtodevelop/website_testing01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roadtodevelop/website_testing01/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
